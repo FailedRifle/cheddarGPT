@@ -1,6 +1,6 @@
 {
-  "name": "CheddarOS",
-  "short_name": "CheddarOS",
+  "name": "CheddarGPT",
+  "short_name": "CheddarGPT",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
